@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/cloud-project/node_modules
+/cloud-project/.pnp
+/cloud-project.pnp.js
+
+# testing
+/cloud-project/coverage
+
+# production
+/cloud-project/build
+
+# misc
+/cloud-project.DS_Store
+/cloud-project.env.local
+/cloud-project.env.development.local
+/cloud-project.env.test.local
+/cloud-project.env.production.local
+
+/cloud-projectnpm-debug.log*
+/cloud-projectyarn-debug.log*
+/cloud-projectyarn-error.log*
