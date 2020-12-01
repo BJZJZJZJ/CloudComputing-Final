@@ -1,0 +1,15 @@
+
+base64 이미지 처리 : https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/image-bytes-javascript.html
+
+Flask Rest API : https://rekt77.tistory.com/104
+	Cors 문제 : https://flask-cors.readthedocs.io/en/latest/
+	CORS 정의 : https://developer.mozilla.org/ko/docs/Web/HTTP/CORS
+	
+React 미리보기 : https://gaemi606.tistory.com/39
+
+UI 전반 : https://material-ui.com/
+
+font 
+	티머니 둥근바람 https://noonnu.cc/font_page/458
+	
+그 외 도움을 준 박찬영씨에게 감사드립니다.

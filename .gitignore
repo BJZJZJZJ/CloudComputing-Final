@@ -11,6 +11,9 @@
 # production
 /cloud-project/build
 
+
+/cloud-project/src/aws.js
+
 # misc
 /cloud-project.DS_Store
 /cloud-project.env.local
@@ -23,5 +26,6 @@
 /cloud-projectyarn-error.log*
 
 
-#docx
+#docx, pptx
 /*.docx
+/*.pptx
