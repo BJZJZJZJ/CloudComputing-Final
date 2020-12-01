@@ -12,8 +12,6 @@
 /cloud-project/build
 
 
-/cloud-project/src/aws.js
-
 # misc
 /cloud-project.DS_Store
 /cloud-project.env.local
@@ -28,4 +26,3 @@
 
 #docx, pptx
 /*.docx
-/*.pptx
