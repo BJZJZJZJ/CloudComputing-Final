@@ -77,7 +77,7 @@ const App = () => {
             result = { ...result, url: data.CelebrityFaces[0].Urls[0] };
 
             const query = {
-              uri: "http://ppsspp.iptime.org:7777",
+              uri: "http://localhost:5000",
               qs: {
                 link: "http://" + result.url,
               },
