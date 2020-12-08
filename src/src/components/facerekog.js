@@ -101,6 +101,7 @@ const App = () => {
       await function(err, data) {
         if (err) console.log(err, err.stack);
         else {
+          console.log(data);
           setEmotion({ emotion: data.FaceDetails[0].Emotions });
           setIsOn(true);
         }

@@ -2,10 +2,10 @@ import AWS from "aws-sdk";
 
 const config = {
   region: "us-east-1",
-  accessKeyId: "ASIAWVW2BDF4FNFKEUU6",
-  secretAccessKey: "dnugvqz1vCd3AIOo0EL63WS42w1Gt+/z/5mbTJJ4",
+  accessKeyId: "ASIAWVW2BDF4KYKGWKKC",
+  secretAccessKey: "OAFywnhGAUID2YngXPGPRQCRyqiZbtnyCDlSAY1o",
   sessionToken:
-    "FwoGZXIvYXdzECgaDP9gQMDVr9ojg70QMiLFAcqlj7mGJDMQZLTKPjp9QLV4zvnfU8Anqk4SFrF/23F6N4qg/uIz0JeSEtGU8W/jwQPDumMC/JjrVBAqdnlH8i3TWPmwFKirPtM+C2HXAOf0qwroSxDCFJ9PMSF6sxITxLIFE0aeMH/bWctKQ7kmTmAPzvko6aKvEfY4RovwUgo5aH+34YLEk/rsRmYJrE8vXWA+EuqizO+Yrdi7JKB59VjwX6xA54tDpxIiQ9nqUCGKXQqCsjLF3yiRExwBWCcu8Tnc6BtvKPTwnP4FMi3ngsaBp0z6/6Kak3P2XZXdaHJqKnkJaNZPde3IwZsktDEMWffII2bQoAAoMp4=",
+    "FwoGZXIvYXdzELX//////////wEaDIeRVtfxwKBKsg1W1SLFAbH0qsA3CthytUV++Jp73OID7NilcUmf9LrILr+q77e8b/ZeuZsXM/TvMdfbXhaf3x3MmezoHqCh51R5A77m7eOGyqk72GNFSthsQiafDQtRPgNZCuFNKazslYKGiaR0tZrmV3pIfk6ehDRPuK7X7umYrPjrMDjwWZlhIdQsftx/g9lJAoA60gvs6Ha0tonLbtnWXi/upcuY4Cs5sRPwtp32EGOYU3Mhz15eQufGyuYsOyQpV2TQem3K0KxbddRtRrjGIgMjKPbyu/4FMi1kRDi+iC7ZlK0SHsMNn2HLXYvZxpd+HF8mfSpCMZFiwhRkMMeTlZGYHKsc17o=",
 };
 
 AWS.config.update(config);
